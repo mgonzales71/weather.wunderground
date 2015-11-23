@@ -7,6 +7,8 @@ It is here for reference and my _explicit personal use_.
 
 If you wish to become a new maintainer/provider for this addon fell free, it is GPLv2 so do as you will.
 
+http://www.wunderground.com/weather/api/
+
 
 INFO FOR SKINNERS
 ---------------------------
